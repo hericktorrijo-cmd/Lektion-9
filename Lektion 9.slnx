@@ -5,5 +5,9 @@
   <Project Path="04 sektionslagret på kajen/04 sektionslagret på kajen.csproj" Id="08d25283-27e3-45b1-b285-07b792d27f18" />
   <Project Path="05 Hamnens Jagged Array/05 Hamnens Jagged Array.csproj" Id="c756e60c-0f0a-4b32-a453-ff2545464fbf" />
   <Project Path="06  Radaravsökning/06  Radaravsökning.csproj" Id="38ac074b-2dff-4a63-bd91-d066d151f8e9" />
+  <Project Path="07 Containerterminalen/07 Containerterminalen.csproj" Id="b86b1a32-d175-43d9-b9d0-fd35bb021060" />
+  <Project Path="08 Lastbilskön vid tullen/08 Lastbilskön vid tullen.csproj" Id="112ebcb4-97c8-44dd-86fc-5d6d74e65677" />
+  <Project Path="09 Logistikrutten/09 Logistikrutten.csproj" Id="3480596a-788a-43b2-8ba6-4675844c6ab3" />
+  <Project Path="10 Skattjakten/10 Skattjakten.csproj" Id="a72324db-c6d2-426a-bff0-38606c74e59f" />
   <Project Path="Test/Test.csproj" />
 </Solution>
