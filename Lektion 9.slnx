@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="01 Sjökort-koordinaterna/01 Sjökort-koordinaterna.csproj" Id="8729862e-e165-4718-958b-a2c6c9c9e94c" />
+  <Project Path="02 Passageraröversikten/02 Passageraröversikten.csproj" Id="6e7ff86a-9695-47d8-b530-09eccbeac922" />
+  <Project Path="Test/Test.csproj" />
+</Solution>
