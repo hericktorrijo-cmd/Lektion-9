@@ -2,5 +2,8 @@
   <Project Path="01 Sjökort-koordinaterna/01 Sjökort-koordinaterna.csproj" Id="8729862e-e165-4718-958b-a2c6c9c9e94c" />
   <Project Path="02 Passageraröversikten/02 Passageraröversikten.csproj" Id="6e7ff86a-9695-47d8-b530-09eccbeac922" />
   <Project Path="03 TemperaturLogger för frysfacken/03 TemperaturLogger för frysfacken.csproj" Id="f59c7e11-b573-474e-8cde-da98473126a6" />
+  <Project Path="04 sektionslagret på kajen/04 sektionslagret på kajen.csproj" Id="08d25283-27e3-45b1-b285-07b792d27f18" />
+  <Project Path="05 Hamnens Jagged Array/05 Hamnens Jagged Array.csproj" Id="c756e60c-0f0a-4b32-a453-ff2545464fbf" />
+  <Project Path="06  Radaravsökning/06  Radaravsökning.csproj" Id="38ac074b-2dff-4a63-bd91-d066d151f8e9" />
   <Project Path="Test/Test.csproj" />
 </Solution>

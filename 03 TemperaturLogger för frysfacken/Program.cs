@@ -6,19 +6,23 @@
 };
 
 int highetsTemperature = freezePocket[0, 0];
+int hottestRow = 0;
+int hottestCol = 0;
 
-for (int rad = 0; rad < freezePocket.GetLength(0); rad++)
+for (int row = 0; row < freezePocket.GetLength(0); row++)
 {
-    for (int kolumn = 0; kolumn < freezePocket.GetLength(1); kolumn++)
+    for (int column = 0; column < freezePocket.GetLength(1); column++)
     {
-        if (freezePocket[rad, kolumn] > highetsTemperature)
+        if (freezePocket[row, column] > highetsTemperature)
         {
-            highetsTemperature = freezePocket[rad, kolumn];
+            highetsTemperature = freezePocket[row, column];
+            hottestRow = row;
+            hottestCol = column;
         }
     }
 }
 
-Console.WriteLine($"Varmast temperatur: {highetsTemperature}");
+Console.WriteLine($"Varmast temperatur: {highetsTemperature} och ligger på plats {hottestRow} {hottestCol}");
 
 Console.Write("\n\nTryck på valfri tangent för att stänga ner konsolen...");
 Console.ReadKey();
