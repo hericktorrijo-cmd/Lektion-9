@@ -19,3 +19,6 @@ for (int rad = 0; rad < passangerSeats.GetLength(0); rad++)
     }
     Console.WriteLine();
 }
+
+Console.Write("\n\nTryck på valfri tangent för att stänga ner konsolen...");
+Console.ReadKey();
